@@ -36,7 +36,7 @@ nav {
 }
 
 nav ul {
-  background-color: #505664;
+  background-color: #008080;
   border-radius: 5px;
   display: inline-table;
   position: relative;
@@ -91,3 +91,8 @@ nav ul li ul li a:hover {
   height:40px;
   position:center;
 }
+.usuario{
+ margin:-10px -10px -10px -10px;
+  width:-40px;
+  height:40px;
+position:center;}
