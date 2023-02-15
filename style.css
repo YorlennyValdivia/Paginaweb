@@ -13,11 +13,11 @@ a{
 }
 p{
   color:white;
+  text-align: center;
 }
 h1{
   color:white;
-  position: center;
-  
+  text-align: center;
 }
 .contenido{
   position:absolute;
@@ -26,8 +26,8 @@ h1{
   transform: translate(-50%,-50%);
   width:500px;
   height: 350px;
-  background: linear-gradient(150deg, #6c3483, #58d68d);
-  border-radius:10px;}
+  background: linear-gradient(50deg, #999999, #454545);
+  border-radius:10px;
 }
 .inicio{
   position:absolute;
