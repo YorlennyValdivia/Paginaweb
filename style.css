@@ -19,6 +19,16 @@ h1{
   position: center;
   
 }
+.contenido{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width:500px;
+  height: 350px;
+  background: linear-gradient(150deg, #6c3483, #58d68d);
+  border-radius:10px;}
+}
 .inicio{
   position:absolute;
   top: 50%;
