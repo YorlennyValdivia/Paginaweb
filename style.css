@@ -18,11 +18,14 @@ h1{
   color:white;
   position: center; 
 }
-.formulario{
+.inicio{
   position:absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
   width:400px;
   background:white;
-  border-radius:10px;
+  border-radius:10px;}
+.redessociales{
+  left:20%
+  }
