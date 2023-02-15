@@ -85,3 +85,6 @@ nav ul li ul li {
 nav ul li ul li a:hover {
   background-color: #5d9799;
 }
+.card-img-top{
+  margin:0 10 0 10px;
+}
