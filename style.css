@@ -3,7 +3,7 @@ body {
   margin:auto;
   padding: 5% 10%;
   background: linear-gradient(150deg, #FFC300,#C0392B, #900C3F);
-  height: 100vh;
+  height: 120vh;
 }
 .decoracion{
   margin:0 auto;
@@ -110,8 +110,8 @@ nav ul li ul li a:hover {
 }
 .primaria{
   position:absolute;
-  top: 50%;
-  left: 20%;
+  top: 60%;
+  left: 25%;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -120,8 +120,8 @@ nav ul li ul li a:hover {
 }
 .secundaria{
     position:absolute;
-  top: 50%;
-  left: 50%;
+  top: 60%;
+  left: 75%;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -130,8 +130,8 @@ nav ul li ul li a:hover {
 }
 .educacionsuperior{
     position:absolute;
-  top: 50%;
-  left: 75%;
+  top: 120%;
+  left: 25%;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -141,7 +141,7 @@ nav ul li ul li a:hover {
 .otros{
     position:absolute;
   top: 120%;
-  left: 20%;
+  left: 75%;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
