@@ -5,7 +5,7 @@ body {
   background: linear-gradient(150deg, #FFC300,#C0392B, #900C3F);
   height: 100vh;
 }
-a{
+.decoracion{
   margin:0 auto;
   text-align:center;
   color:gold;
@@ -39,8 +39,8 @@ h1{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  width:360px;
-  height: 250px;
+  width:400px;
+  height: 260px;
   background:white;
   border-radius:10px;}
 .ul {
@@ -108,8 +108,4 @@ nav ul li ul li a:hover {
   height:40px;
   position:center;
 }
-.usuario{
- margin:-10px -10px -10px -10px;
-  width:-40px;
-  height:40px;
-position:center;}
+
