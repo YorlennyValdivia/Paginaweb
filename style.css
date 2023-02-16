@@ -121,3 +121,4 @@ button[type="button"]{
 button[type="button"]:hover{
   border-color:purple;
   transition: .5s;
+}
