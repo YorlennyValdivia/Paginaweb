@@ -6,9 +6,11 @@ body {
   height: 100vh;
 }
 a{
-  
+  position:center;
+  text-align:center;
   color:white;
   padding: 0 0 20px 0;  
+  text-decoration:none;
  }
 p{
   color:black ;
