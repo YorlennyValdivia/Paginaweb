@@ -111,7 +111,7 @@ nav ul li ul li a:hover {
 .primaria{
   position:absolute;
   top: 60%;
-  left: 30%;
+  left: 150px;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -131,7 +131,7 @@ nav ul li ul li a:hover {
 .educacionsuperior{
   position:absolute;
   top: 120%;
-  left: 25%;
+  left: 300px;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -141,7 +141,7 @@ nav ul li ul li a:hover {
 .otros{
   position:absolute;
   top: 120%;
-  left: 75%;
+  left: 600px;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
