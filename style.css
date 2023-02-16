@@ -111,7 +111,7 @@ nav ul li ul li a:hover {
 .primaria{
   position:absolute;
   top: 60%;
-  left: 25%;
+  left: 30%;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -119,9 +119,9 @@ nav ul li ul li a:hover {
   border-radius:10px;
 }
 .secundaria{
-    position:absolute;
+  position:absolute;
   top: 60%;
-  left: 75%;
+  left:600px;
   transform: translate(-50%,-50%);
   width:250px;
   height: 250px;
@@ -129,7 +129,7 @@ nav ul li ul li a:hover {
   border-radius:10px;
 }
 .educacionsuperior{
-    position:absolute;
+  position:absolute;
   top: 120%;
   left: 25%;
   transform: translate(-50%,-50%);
@@ -139,7 +139,7 @@ nav ul li ul li a:hover {
   border-radius:10px;
 }
 .otros{
-    position:absolute;
+  position:absolute;
   top: 120%;
   left: 75%;
   transform: translate(-50%,-50%);
