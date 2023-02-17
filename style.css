@@ -5,6 +5,7 @@ body {
   background: linear-gradient(150deg, #FFC300,#C0392B, #900C3F);
   height: 240vh;
 }
+
 .decoracion{
   font-weight: bold;
   margin:0 auto;
@@ -19,28 +20,16 @@ body {
 p{
   color:black ;
   text-align: center;
-}inicio{
-  position:absolute;
-  color:black;
-  text-align: center;
-  background: white ;
-  border-radius:10px;
-  border-bottom: 5px solid silver; 
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  width:300px;
-  height: 120px;
-
 }
+
 .logosrd{
   position:relative;
   width:50px;
   height: 50px;
 }
-.contenido{
-  position:absolute;
- top: 250px;
+.acercademi{
+  position:relative;
+  top: 35%;
   left: 50%;
   transform: translate(-50%,-50%);
   width:325px;
@@ -48,16 +37,16 @@ p{
   background: white ;
   border-radius:10px;
 }
-.inicio{
-  position:absolute;
-  top: 55%;
+.Estudios{
+  position:relative;
+  top: 35%;
   left: 50%;
   transform: translate(-50%,-50%);
-  width:300px;
-  height: 260px;
-  background:white;
-  border-radius:10px;}
-
+  width:325px;
+  height: 325px;
+  background: white ;
+  border-radius:10px
+}
 .primaria{
   position:absolute;
   top: 260px;
