@@ -6,10 +6,11 @@ body {
   height: 240vh;
 }
 .decoracion{
+  font-weight: bold;
   margin:0 auto;
   text-align:center;
   color:gold;
-  padding: 2px;  
+  padding: 5px;  
   text-decoration:none;
   transform: translate(-50%,-50%);
   background: white;
@@ -165,6 +166,7 @@ top: 5%; left: 60%;
   top: 65%; left: 10%;
 }
 .correolink{
+  font-weight: bold;
   position:absolute;
   top: 92%; left: 23%;
   margin:0 auto;
