@@ -151,3 +151,10 @@ nav ul li ul li a:hover {
 h2{
   color:#C70039 ;
   text-align: center;}
+.circular--square {
+  position: relative;
+top: -20px; left: 500px;
+  border-radius: 50%;
+  width:250px;
+  height: 250px;
+}
