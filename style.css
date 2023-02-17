@@ -6,7 +6,7 @@ body {
   height: 240vh;
 }
 h1{
-    color:#C70039 ;
+    color:black;
   text-align: center;
   background: white ;
   border-radius:10px;
@@ -45,13 +45,13 @@ p{
 }
 .Estudios{
   position:relative;
-  top: 35%;
+  top: 8%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
 .relacionados{
     position:relative;
-  top: %;
+  top: 9%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
