@@ -10,7 +10,7 @@ body {
   margin:0 auto;
   text-align:center;
   color:gold;
-  padding: 5px;  
+  padding: 1px;  
   text-decoration:none;
   transform: translate(-50%,-50%);
   background: white;
@@ -177,4 +177,11 @@ top: 5%; left: 60%;
   transform: translate(-50%,-50%);
   background: white;
   border-radius:10px;
+}
+.estudiosimg{
+  position:absolute;
+  border-radius: 50%;
+  width:120px;
+  height: 120px;
+  top: 65%; left: 10%;
 }
