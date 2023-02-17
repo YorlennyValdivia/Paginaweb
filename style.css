@@ -22,7 +22,10 @@ p{
 }
 h1{
   color:black;
-  text-align: center;
+    text-align: center;
+  background: white ;
+  border-radius:10px;
+  border-bottom: 5px solid silver; 
 }
 .contenido{
   position:absolute;
