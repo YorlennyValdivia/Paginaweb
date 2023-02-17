@@ -5,7 +5,13 @@ body {
   background: linear-gradient(150deg, #FFC300,#C0392B, #900C3F);
   height: 240vh;
 }
-
+h1{
+    color:#C70039 ;
+  text-align: center;
+  background: white ;
+  border-radius:10px;
+  border-bottom: 5px solid silver; 
+}
 .decoracion{
   font-weight: bold;
   margin:0 auto;
@@ -39,7 +45,13 @@ p{
 }
 .Estudios{
   position:relative;
-  top: 40%;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.relacionados{
+    position:relative;
+  top: %;
   left: 50%;
   transform: translate(-50%,-50%);
 }
