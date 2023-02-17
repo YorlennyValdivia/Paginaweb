@@ -36,7 +36,7 @@ h1{
 }
 .inicio{
   position:absolute;
-  top: 60%;
+  top: 63%;
   left: 50%;
   transform: translate(-50%,-50%);
   width:300px;
@@ -152,8 +152,8 @@ h2{
   color:#C70039 ;
   text-align: center;}
 .circular--square {
-  position: relative;
-top: -10%; left: 57%;
+  position: absolute;
+top: 5%; left: 55%;
   border-radius: 50%;
   width:150px;
   height: 150px;
