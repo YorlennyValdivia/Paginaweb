@@ -33,19 +33,15 @@ p{
   left: 50%;
   transform: translate(-50%,-50%);
   width:325px;
-  height: 325px;
+  height:325px;
   background: white ;
   border-radius:10px;
 }
 .Estudios{
   position:relative;
-  top: 35%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%,-50%);
-  width:325px;
-  height: 325px;
-  background: white ;
-  border-radius:10px
 }
 .primaria{
   position:absolute;
