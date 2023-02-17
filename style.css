@@ -179,6 +179,7 @@ top: 5%; left: 60%;
   border-radius:10px;
 }
 .estudiosimg{
+  background:white;
   position:absolute;
   border-radius: 50%;
   width:120px;
