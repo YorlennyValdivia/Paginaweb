@@ -20,12 +20,18 @@ p{
   color:black ;
   text-align: center;
 }
-h1{
+.dinicio{
+  position:relative;
   color:black;
-    text-align: center;
+  text-align: center;
   background: white ;
   border-radius:10px;
   border-bottom: 5px solid silver; 
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width:300px;
+  height: 200px;
 }
 .contenido{
   position:absolute;
