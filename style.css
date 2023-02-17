@@ -153,6 +153,8 @@ h2{
   text-align: center;
   background: white ;
   border-radius:10px;
+  border-bottom: 5px solid silver;  
+
 }
 .circular--square {
   position: absolute;
@@ -166,12 +168,12 @@ top: 5%; left: 60%;
   border-radius: 50%;
   width:150px;
   height: 150px;
-  top: 65%; left: 10%;
+  top: 85%; left: 10%;
 }
 .correolink{
   font-weight: bold;
   position:absolute;
-  top: 92%; left: 23%;
+  top: 130%; left: 35%;
   margin:0 auto;
   text-align:center;
   color:#C70039;
@@ -191,7 +193,7 @@ top: 5%; left: 60%;
 }
 .profesores{
   position:absolute;
-  top: 300px;
+  top: 320px;
   left: 50%;
   transform: translate(-50%,-50%);
   width:250px;
