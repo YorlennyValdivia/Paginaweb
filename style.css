@@ -1,6 +1,6 @@
 section{
   display:flex;
-  width:600px;
+  width:700px;
   height:250px;  
 }
 section img{
@@ -8,12 +8,12 @@ section img{
   flex-grow: 1;
   object-fit: cover;
   opacity: 8;
-  transition: 3s ease;
+  transition: 4s ease;
   border-radius:10px;
 }
 section img:hover {
   cursor :crosshair;
-  width:300px;
+  width:350px;
   opacity:1;
   filter: contrast(120%);
 }
