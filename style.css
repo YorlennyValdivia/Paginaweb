@@ -212,10 +212,17 @@ nav ul li:hover {
   top: 30%;
   left: 25%;
 }
-.redes{
+.redesw{
   background:white;
   position:absolute;
   border-radius: 50%;
   width:50px;
   height:50px;
-  top: 65%; left: 10%;
+  top: 65%; left: 10%;}
+.redest{
+  background:white;
+  position:absolute;
+  border-radius: 50%;
+  width:50px;
+  height:50px;
+  top: 65%; left: 25%;}
