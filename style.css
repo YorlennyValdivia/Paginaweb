@@ -1,7 +1,7 @@
 section{
   display:flex;
   width:100%;
-  height:250px;  
+  height:125px;  
 }
 section img{
   width: 0px;
@@ -18,10 +18,11 @@ section img:hover {
   filter: contrast(120%);
 }
 body {
-  margin:auto;
-  padding: 5% 10%;
   background: linear-gradient(150deg, #FFC300,#C0392B, #900C3F);
-  height: 90vh;
+  margin: 0;
+  padding: 5%;
+  box-sizing: border-box;
+  height:100vh;
 }
 h1{
   color:black;
@@ -53,7 +54,7 @@ p{
 }
 .Inicio{
   position:relative;
-  top:50%;
+  top:200px;
   left: 50%;
   transform: translate(-50%,-50%);
   width:350px;
